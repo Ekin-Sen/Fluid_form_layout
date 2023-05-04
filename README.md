@@ -1,2 +1,2 @@
 # Fluid Form Layout
-* responsive form layout for different screen widths with flexbox
+* responsive form layout for different screen widths
